@@ -145,7 +145,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/ignition_coil_pack_1791643331216.jpg',
+    imageUrl: ignitionCoilImage,
     specs: {
       'Pabrikan': 'Denso Made in Japan',
       'Sistem Injeksi': '1TR-FE / 2TR-FE Dual VVT-i',
@@ -175,7 +175,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/led_headlamp_assembly_1791643343935.jpg',
+    imageUrl: headlampImage,
     specs: {
       'Teknologi': 'Dual Bi-LED Projector 5500K with Sequential Welcome Light',
       'Pemasangan': 'Plug and Play Socket OEM tanpa potong kabel',
@@ -205,7 +205,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/brake_rotor_oem_1791643319079.jpg',
+    imageUrl: brakeRotorImage,
     specs: {
       'Diameter': '255mm Ventilated Type',
       'PCD Baut': '4 x 100 mm',
@@ -235,7 +235,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/brake_rotor_oem_1791643319079.jpg',
+    imageUrl: brakeRotorImage,
     specs: {
       'Material': 'High-Tensile Forged Steel Ball Joint',
       'Standard Mutu': 'Sankei 555 Made in Japan',
@@ -265,7 +265,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/ignition_coil_pack_1791643331216.jpg',
+    imageUrl: ignitionCoilImage,
     specs: {
       'Sisi Pemasangan': 'Belakang (Exhaust Side IDSI)',
       'Impedansi': '1.2 Ohm Resistive Spec OEM',
@@ -295,7 +295,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/ignition_coil_pack_1791643331216.jpg',
+    imageUrl: ignitionCoilImage,
     specs: {
       'Tipe': 'Hydraulic Fluid Damped Cushion',
       'Posisi': 'Sisi Kanan Mesin (Driver/RH)',
@@ -325,7 +325,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/brake_rotor_oem_1791643319079.jpg',
+    imageUrl: brakeRotorImage,
     specs: {
       'Teknologi Gas': 'Nitrogen Pressurized Twin Tube',
       'Peredaman': 'Comfort & Stability Valving Standard',
