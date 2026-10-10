@@ -4,7 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {
+  base: '/B2B_dead_stock_variasi_spare_part_mobil/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
