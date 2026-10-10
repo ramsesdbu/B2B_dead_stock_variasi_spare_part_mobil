@@ -115,7 +115,7 @@ export const INITIAL_PARTS: PartItem[] = [
     heldUntil: null,
     heldByStoreId: null,
     heldById: null,
-    imageUrl: '/src/assets/images/brake_rotor_oem_1791643319079.jpg',
+    imageUrl: brakeRotorImage,
     specs: {
       'Tipe Bahan': 'Semi-Metallic OEM Standard',
       'Kompatibilitas Mesin': '2GD-FTV / 1GD-FTV 2.4L & 2.8L Diesel',
