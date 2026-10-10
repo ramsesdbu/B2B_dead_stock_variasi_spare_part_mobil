@@ -1,4 +1,7 @@
 import { Store, PartItem, Order, WalletTransaction } from '../types';
+import brakeRotorImage from '../assets/images/brake_rotor_oem_1791643319079.jpg';
+import ignitionCoilImage from '../assets/images/ignition_coil_pack_1791643331216.jpg';
+import headlampImage from '../assets/images/led_headlamp_assembly_1791643343935.jpg';
 
 export const INITIAL_STORES: Store[] = [
   {
