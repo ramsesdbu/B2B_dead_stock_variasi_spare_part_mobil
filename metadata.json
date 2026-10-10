@@ -1,0 +1,6 @@
+{
+  "name": "PartShare B2B - Blind Marketplace Suku Cadang Mobil",
+  "description": "Platform B2B multi-store likuidasi dead-stock suku cadang mobil dengan blind marketplace anti-curang, atomic stock hold 30 menit, dompet escrow, dan blind shipping label.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
